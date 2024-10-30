@@ -1,0 +1,25 @@
+{
+  "name": "my-application", 
+  "version": "1.0.0",
+  "description": "Primer servidor web basado en Node", 
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://spidery-gravestone-4jqwrx76vj46hqwxj.github.dev/"
+  },
+  "keywords": [
+    "node",
+    "pwpcI",
+    "itgam"
+  ],
+  "author": "@HectorBecerra",
+  "license": "MIT",
+  "engines": {
+    "node": "14.x",
+    "npm": "7.x"
+  }
+}
